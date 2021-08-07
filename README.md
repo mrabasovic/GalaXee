@@ -7,7 +7,7 @@ Implemented the Delegate Design pattern in this application.
 
 This application calls the NASA's API and gets the picture on a random date as well as the description for that picture.
 
-![Simulator Screen Shot - iPhone 11 - 2021-08-07 at 18 19 21](https://user-images.githubusercontent.com/56759602/128613322-36766fa9-edee-4190-b4b4-56bfc7f27694.png=250x400)
+![Simulator Screen Shot - iPhone 11 - 2021-08-07 at 18 19 21](https://user-images.githubusercontent.com/56759602/128613322-36766fa9-edee-4190-b4b4-56bfc7f27694.png){:height="700px" width="400px"}
 ![Simulator Screen Shot - iPhone 11 - 2021-08-07 at 18 19 33](https://user-images.githubusercontent.com/56759602/128613323-7f46deaf-9706-4a21-adc1-80e7673008c1.png)
 ![Simulator Screen Shot - iPhone 11 - 2021-08-07 at 18 20 06](https://user-images.githubusercontent.com/56759602/128613326-41651ddc-50dc-47b5-aa81-8d4a94fbe16c.png)
 
